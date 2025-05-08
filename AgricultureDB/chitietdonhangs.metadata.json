@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"MaChiTiet":{"$numberInt":"1"}},"name":"MaChiTiet_1","background":true,"unique":true}],"uuid":"06661adfd55b422fa086934cd516d72b","collectionName":"chitietdonhangs","type":"collection"}

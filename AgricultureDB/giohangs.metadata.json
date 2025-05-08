@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"MaGioHang":{"$numberInt":"1"}},"name":"MaGioHang_1","background":true,"unique":true}],"uuid":"1271b7908cc54387be0d741742d2da3b","collectionName":"giohangs","type":"collection"}

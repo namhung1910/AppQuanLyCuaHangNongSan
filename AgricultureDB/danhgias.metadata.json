@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"MaDanhGia":{"$numberInt":"1"}},"name":"MaDanhGia_1","background":true,"unique":true}],"uuid":"b476053ec82245bab490f7497f592d78","collectionName":"danhgias","type":"collection"}

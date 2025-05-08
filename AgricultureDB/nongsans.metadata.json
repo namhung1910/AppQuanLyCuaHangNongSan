@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"MaNongSan":{"$numberInt":"1"}},"name":"MaNongSan_1","background":true,"unique":true}],"uuid":"b36a3e0061864f018079a3576c536c37","collectionName":"nongsans","type":"collection"}

@@ -53,12 +53,12 @@
 1. Giao diện trang Quản lý người dùng
 
 <p align="center">
-  <img src="git_data/Admin_QLNguoiDung.png" alt="System Architecture" width="600"/>
+  <img src="git_data/Admin_QlNguoiDung.png" alt="System Architecture" width="600"/>
 
 2. Giao diện trang Quản lý danh mục
 
 <p align="center">
-  <img src="git_data/Admin_QLDanhMuc.png" alt="System Architecture" width="600"/>
+  <img src="git_data/Admin_QlDanhMuc.png" alt="System Architecture" width="600"/>
 
 3. Giao diện trang Quản lý sản phẩm
 
